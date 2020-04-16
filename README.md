@@ -1,3 +1,21 @@
+## Python
+- *Talk Python To Me* - https://talkpython.fm
+- *Python Bytes* - https://pythonbytes.fm
+
+<hr>
+
+# Go / Gin
+
+## Active Podcast Shows
+- *Go Time* - https://changelog.com/gotime
+- *GoFr* - https://soundcloud.com/arnaud-assad/sets/gofr
+
+## Inactive podcast shows
+- *GolangShow* - https://golangshow.com/
+- *Go Gab* - https://www.briefs.fm/go-gab
+
+<hr>
+
 ## JavaScript
 - *JAMstack Radio* - http://www.heavybit.com/library/podcasts/jamstack-radio
 - *Front End Happy Hour* - http://frontendhappyhour.com
@@ -57,7 +75,7 @@
 ## Security & Performance
 - *Security Now* - https://twit.tv/shows/security-now
 - *the path to PERFORMANCE* - https://pathtoperf.com
-- "Darknet Diaries" - https://darknetdiaries.com/episode
+- *Darknet Diaries* - https://darknetdiaries.com/episode
 
 ## Broad / Business / Workflow / Tech
 - *CTRL+CLICK CAST* - http://ctrlclickcast.com
@@ -69,10 +87,6 @@
 
 ## Mobile Dev
 - *More Than Just Code* - http://mtjc.fm
-
-## Python
-- *Talk Python To Me* - https://talkpython.fm
-- *Python Bytes* - https://pythonbytes.fm
 
 ## Ruby
 - *Remote Ruby* - https://remoteruby.transistor.fm/
